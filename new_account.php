@@ -10,7 +10,7 @@
 <body>
 	<section id="container">
 	<?php
-			include('inc/header.php');
+			include('inc/landingHeader.php');
 	?>
 	
 	<section id="content">
